@@ -1,5 +1,4 @@
 # EXPERIMENT NO: 3
-
 ## Scenario-Based Report Development Utilizing Diverse Prompting Techniques
 
 ### DATE: 31-10-2026
